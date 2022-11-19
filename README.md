@@ -10,4 +10,5 @@ Screenshots
 
 Description:
 
-To take online appointments by patients to the doctors in a hassle free manner by giving accurate information by the patients to the Doctors
+To take online appointments by patients to the doctors in a hassle free manner for time saving scope.So this wwebpage will useful for the patients in prior called "Healthplus".
+Those above are the screenshots provided regarding this final project
